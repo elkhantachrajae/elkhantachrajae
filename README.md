@@ -1,12 +1,7 @@
-🌟Hello Everyone!I am Rajae EL KHANTACH, a Computer Science Engineering student. I am a girl with a deep curiosity about the IT field, and I aspire to leave my own mark in this ever-evolving domain.
+Hi there 👋
+I’m Rajae El Khantach, a Software Engineering student at ENSAH, Al Hoceima | Morocco.
 
+💻 I’m passionate about software development, DevSecOps, and Cloud technologies.
+✉️ Contact me at: elkhantachrajae@gmail.com
 
-🌟I am passionate about software development, web development,DevOps,Cloud and exploring new technologies. 
-
-
-
-🌟In my free time, I love working on personal projects and learning more about IT trends. I aim to be a part of the tech community and contribute to meaningful projects.
-
-
-
-
+🌐 Discover my portfolio here: 
