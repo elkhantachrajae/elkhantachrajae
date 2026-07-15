@@ -1,5 +1,5 @@
 Hi there 👋
-I’m Rajae El Khantach, a Software Engineering student at ENSAH, Al Hoceima | Morocco.
+I’m Rajae El Khantach, a Junior Software Engineer.
 
 💻 I’m passionate about software development, DevSecOps, and Cloud technologies.
 
